@@ -45,11 +45,10 @@ Login Module - 
 
 
 **HOW THE PROJECT WORKS:**
-<p align="center">
 <br>
 <br>
 ![Picture2](https://user-images.githubusercontent.com/88264132/232804680-dcd8fd74-e0f4-4aa1-b174-294cd399c65f.png)
-User Registration Form
+<p align="center">User Registration Form</p>
 </br>
 <br>
 ![Picture3](https://user-images.githubusercontent.com/88264132/232825108-d87349b8-7310-49a0-ac26-6a237b5f6e0c.png)
@@ -67,7 +66,6 @@ Login Form
 <br>
 ![Picture6](https://user-images.githubusercontent.com/88264132/232833480-80f484c5-1b07-476d-8a7a-6b10772dac05.png)
 <br>Process of Adding Todo</br>
-</p>
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
 
