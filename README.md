@@ -40,8 +40,8 @@ User Registration Form
 ![Note-with-paperclip-clip-art-free-vector-in-open-office-drawing](https://user-images.githubusercontent.com/88264132/232783024-a1d9707d-7ff4-46d2-9fd7-8991681436d9.jpg)
 **PLEASE NOTE:**
 This project was collaboratively prepared by:  
-1) <li><a href="www.youtube.com">Soubhik Ghosh</a></li>
-2) Subhadeep Puitandi
+1) Soubhik Ghosh
+2) <a href="https://sauravmukherjee.in/" target="_blank">Subhadeep Puitandi</a>
 3) Ankita Mukherjee
 4) Lekha Mehta
 
