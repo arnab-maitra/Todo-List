@@ -4,7 +4,6 @@
 
 To-do lists offer a way to increase productivity, stopping you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.
 
-<br></br>
 
 **TOOLS AND TECHNOLOGIES USED:**
 
@@ -16,7 +15,6 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 6. Servlet API - 2.5 
 7. MySQL - mysql-connector-java-8.0.13.jar
 
-<br></br>
 
 **FUNCTIONS USED:**
 
@@ -25,7 +23,6 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 3. Display – When we login the Todo Web App, all the lists of Todos are displayed to the client using the display function.
 4. Delete – When the Todo is unused, the specific todo can be deleted using the delete function.
 
-<br></br>
 
 **MODULES:**
 
@@ -46,12 +43,13 @@ Login Module - 
 7. Controller Layer - TodoController.java
 8. View Layer - todo-form.jsp and todo-list.jsp
 
-<br></br>
 
 **HOW THE PROJECT WORKS:**
 
 ![Picture2](https://user-images.githubusercontent.com/88264132/232804680-dcd8fd74-e0f4-4aa1-b174-294cd399c65f.png)
 <b><p align="center">Fig 1: User Registration Form</p></b>
+
+<br></br>
 
 ![Picture3](https://user-images.githubusercontent.com/88264132/232825108-d87349b8-7310-49a0-ac26-6a237b5f6e0c.png)
 <b><p align="center">Fig 2: Login Form</p></b>
