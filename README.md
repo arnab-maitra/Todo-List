@@ -22,10 +22,12 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 4. Delete – When the Todo is unused, the specific todo can be deleted using the delete function.
 
 
-**MODELS USED:**
-1. Naive Bayes (Multinominal)
-2. Random Forest Classifier
-3. XG Boost Classifier
+**FUTURE IMPROVEMENTS ON THE PROJECT**
+1. Progress Bar can be implemented in each Todo.
+2. Email and Contact No. option and verification can be implemented.
+3. Captcha can be implemented during Registration.
+
+
 
 **LIBRARIES NEEDED:**
 1. Numpy
