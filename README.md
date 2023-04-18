@@ -40,11 +40,12 @@ User Registration Form
 
 **PLEASE NOTE:**
 This project was collaboratively prepared by:  
-1) Soubhik Ghosh
+1) <a href="https://github.com/arnab-maitra?tab=repositories" target="_blank">Arnab Maitra</a>
 2) <a href="https://youtube.com/" target="_blank">Subhadeep Puitandi</a>
-3) Ankita Mukherjee
-4) Lekha Mehta
-5) <a href="https://github.com/arnab-maitra?tab=repositories" target="_blank">Arnab Maitra</a>
+3) <a href="https://youtube.com/" target="_blank">Ankita Mukherjee</a>
+4) Soubhik Ghosh
+5) Lekha Mehta
+
 
 **CONCLUSION:**
 | Models | Accuracy on Training Set  | Accuracy on Testing Set |
