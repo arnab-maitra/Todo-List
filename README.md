@@ -64,6 +64,8 @@ Login Module - 
 ![Picture6](https://user-images.githubusercontent.com/88264132/232833480-80f484c5-1b07-476d-8a7a-6b10772dac05.png)
 <b><p align="center">Fig 6: Process of Adding Todo</p></b>
 
+<br></br>
+
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
 
 1. Progress Bar can be implemented in each Todo.
