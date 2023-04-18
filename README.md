@@ -47,7 +47,7 @@ Login Module - 
 **HOW THE PROJECT WORKS:**
 
 ![Picture2](https://user-images.githubusercontent.com/88264132/232804680-dcd8fd74-e0f4-4aa1-b174-294cd399c65f.png)
-<p align="center">User Registration Form</p>
+<b><p align="center">User Registration Form</p></b>
 
 ![Picture3](https://user-images.githubusercontent.com/88264132/232825108-d87349b8-7310-49a0-ac26-6a237b5f6e0c.png)
 <p align="center">Login Form</p>
