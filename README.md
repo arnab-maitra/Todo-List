@@ -52,7 +52,7 @@ Login Module - 
 </br>
 <br>
 ![Picture3](https://user-images.githubusercontent.com/88264132/232825108-d87349b8-7310-49a0-ac26-6a237b5f6e0c.png)
-Login Form
+<p align="center">Login Form</p>
 </br>
 <br>
 ![Picture4](https://user-images.githubusercontent.com/88264132/232826730-36df8b73-12fc-405b-ad44-7172ef2d8ba5.png)
