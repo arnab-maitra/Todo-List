@@ -40,7 +40,7 @@ User Registration Form
 **PLEASE NOTE:**
 This project was collaboratively prepared by:  
 1) Soubhik Ghosh
-2) <a href="https://sauravmukherjee.in/" target="_blank">Subhadeep Puitandi</a>
+2) <a href="https://youtube.com/" target="_blank">Subhadeep Puitandi</a>
 3) Ankita Mukherjee
 4) Lekha Mehta
 
