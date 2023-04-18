@@ -36,6 +36,7 @@ User Registration Form
 5. Profile Picture Upload option can be implemented.
 6. Database synchronization by mail can be well implemented.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **PLEASE NOTE:**
 This project was collaboratively prepared by:  
