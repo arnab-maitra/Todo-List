@@ -55,7 +55,6 @@ User Registration Form
 Login Form
 </br>
 <br>
-<br>
 ![Picture4](https://user-images.githubusercontent.com/88264132/232826730-36df8b73-12fc-405b-ad44-7172ef2d8ba5.png)
 <br>User Table</br>
 <br>
