@@ -62,6 +62,7 @@ Login Form
 
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
+
 1. Progress Bar can be implemented in each Todo.
 2. Email and Contact No. option and verification can be implemented.
 3. Captcha can be implemented during Registration.
@@ -72,6 +73,7 @@ Login Form
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **PLEASE NOTE:**
+
 This project was collaboratively prepared by:  
 1) <a href="https://github.com/arnab-maitra?tab=repositories" target="_blank">Arnab Maitra</a>
 2) <a href="https://youtube.com/" target="_blank">Subhadeep Puitandi</a>
