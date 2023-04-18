@@ -51,11 +51,10 @@ Login Module - 
 
 ![Picture3](https://user-images.githubusercontent.com/88264132/232825108-d87349b8-7310-49a0-ac26-6a237b5f6e0c.png)
 <p align="center">Login Form</p>
-</br>
-<br>
+
 ![Picture4](https://user-images.githubusercontent.com/88264132/232826730-36df8b73-12fc-405b-ad44-7172ef2d8ba5.png)
-<br>User Table</br>
-<br>
+<p align="center">User Table</p>
+
 ![Picture5](https://user-images.githubusercontent.com/88264132/232829356-dfec221b-89ab-43e4-a8e2-cfe0b584662d.png)
 <br>To-do Table</br>
 <br>
