@@ -24,8 +24,25 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 
 **HOW THE PROJECT WORKS:**
 
-User Registration Form
-![Picture1](https://user-images.githubusercontent.com/88264132/232689033-12c86317-027f-4a64-a666-b937644e7673.png)
+**Modules**
+User Registration Module - 
+1. Create a JavaBean - User.java
+2. Configure JDBC Connection- JDBCUtils.java
+3. DAO Layer - UserDao.java
+4. Controller Layer - UserController.java
+5. View Layer - register.jsp
+
+Login Module - 
+1. Create a JavaBean - LoginBean.java
+2. DAO Layer - LoginDao.java
+3. Controller Layer - LoginController.java
+4. View Layer - login.jsp
+5. Model Layer - Todo.java
+6. DAO Layer - TodoDao.java and TodoDaoImpl.java
+7. Controller Layer - TodoController.java
+8. View Layer - todo-form.jsp and todo-list.jsp
+
+
 
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
