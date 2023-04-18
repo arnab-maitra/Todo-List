@@ -32,9 +32,9 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 
 
 **LIBRARIES NEEDED:**
+
+User Registration Form
 ![Picture1](https://user-images.githubusercontent.com/88264132/232689033-12c86317-027f-4a64-a666-b937644e7673.png)
-                                     
-                                     **User Registration Form**
 
 
 **CONCLUSION:**
