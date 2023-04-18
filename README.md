@@ -50,19 +50,19 @@ Login Module - 
 <b><p align="center">User Registration Form</p></b>
 
 ![Picture3](https://user-images.githubusercontent.com/88264132/232825108-d87349b8-7310-49a0-ac26-6a237b5f6e0c.png)
-<p align="center">Login Form</p>
+<b><p align="center">Login Form</p></b>
 
 ![Picture4](https://user-images.githubusercontent.com/88264132/232826730-36df8b73-12fc-405b-ad44-7172ef2d8ba5.png)
-<p align="center">User Table</p>
+<b><p align="center">User Table</p></b>
 
 ![Picture5](https://user-images.githubusercontent.com/88264132/232829356-dfec221b-89ab-43e4-a8e2-cfe0b584662d.png)
-<p align="center">To-do Table</p>
+<b><p align="center">To-do Table</p></b>
 
 ![Web capture_18-4-2023_193211_](https://user-images.githubusercontent.com/88264132/232832351-be0cea12-9e71-4cbe-a730-94ef2307727e.jpeg)
-<p align="center">Add Todo, Update Todo, List Todo, Delete Todo</p>
+<b><p align="center">Add Todo, Update Todo, List Todo, Delete Todo</p></b>
 
 ![Picture6](https://user-images.githubusercontent.com/88264132/232833480-80f484c5-1b07-476d-8a7a-6b10772dac05.png)
-<p align="center">Process of Adding Todo</p>
+<b><p align="center">Process of Adding Todo</p></b>
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
 
