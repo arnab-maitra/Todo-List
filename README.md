@@ -14,11 +14,13 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 7. MySQL - mysql-connector-java-8.0.13.jar
 
 
-**WHAT I HAD DONE:**
+**FUNCTIONS USED:**
 
-I have started with simple Exploratory Data Analysis(EDA), looked for some null or duplicate vales. 
-Then splited the training and testing dataset using sklearn. 
-Then I implemented different models to classify the message as spam or not-spam.
+1. Insert – When we add todos to the list, then we use the insert function. The added todos get stored in the Database.
+2.
+3.
+4.
+
 
 **MODELS USED:**
 1. Naive Bayes (Multinominal)
