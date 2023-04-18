@@ -32,7 +32,7 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 
 
 **LIBRARIES NEEDED:**
-1. Numpy
+1. ![image](https://user-images.githubusercontent.com/88264132/232686868-b3cbd9de-1de2-42a1-b896-87f160e8e999.png)
 2. Pandas
 3. Sklearn
 
