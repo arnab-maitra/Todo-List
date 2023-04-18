@@ -8,7 +8,10 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 1. JSP - 2.2 +
 2. IDE – Netbeans 8.2
 3. JDK – 8
-
+4. Apache Tomcat - 8.0.27.0
+5. JSTL - 1.2.1
+6. Servlet API - 2.5 
+7. MySQL - mysql-connector-java-8.0.13.jar
 
 
 **WHAT I HAD DONE:**
