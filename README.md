@@ -48,6 +48,10 @@ Login Module - 
 <div>
 ![Web capture_18-4-2023_193211_](https://user-images.githubusercontent.com/88264132/232801696-4995da7e-73c4-4e80-aed0-10d2d3b38c2e.jpeg)
 </div>
+<div>
+![Picture2](https://user-images.githubusercontent.com/88264132/232803813-a5810d1c-1771-4a51-95dc-5dc3a2e1595b.png)
+</div>
+
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
 1. Progress Bar can be implemented in each Todo.
