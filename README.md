@@ -37,6 +37,7 @@ User Registration Form
 6. Database synchronization by mail can be well implemented.
 
 
+![Note-with-paperclip-clip-art-free-vector-in-open-office-drawing](https://user-images.githubusercontent.com/88264132/232783024-a1d9707d-7ff4-46d2-9fd7-8991681436d9.jpg)
 **PLEASE NOTE:**
 This project was collaboratively prepared by:  
 1) Soubhik Ghosh
