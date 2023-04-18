@@ -79,16 +79,3 @@ This project was collaboratively prepared by:
 3) <a href="https://youtube.com/" target="_blank">Ankita Mukherjee</a>
 4) Soubhik Ghosh
 5) Lekha Mehta
-
-
-**CONCLUSION:**
-| Models | Accuracy on Training Set  | Accuracy on Testing Set |
-|:-----|:--------:|:------:|
-| Naive Bayes (Multinominal) | 0.99346 | 0.96875 |
-| Random Forest Classifier | 1.0 | 0.91666 |
-| XG Boost Classifier | 0.97908 | 0.95833 |
-
-
-| Naive Bayes (Multinominal) Training Set Accuracy  | Naive Bayes (Multinominal) Testing Set Accuracy |
-|:--------:|:------:|
-| ![MNB-accuracy-test](https://user-images.githubusercontent.com/58680590/122665114-05bc8180-d1c3-11eb-8304-b0444952204d.png) | ![MNB-accuracy-train](https://user-images.githubusercontent.com/58680590/122665115-06edae80-d1c3-11eb-8ee6-7a4d499a91c4.png) |
