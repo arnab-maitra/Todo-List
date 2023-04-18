@@ -33,9 +33,9 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 
 **LIBRARIES NEEDED:**
 ![image](https://user-images.githubusercontent.com/88264132/232686868-b3cbd9de-1de2-42a1-b896-87f160e8e999.png)
+                                     
                                      **User Registration Form**
-2. Pandas
-3. Sklearn
+
 
 **CONCLUSION:**
 | Models | Accuracy on Training Set  | Accuracy on Testing Set |
