@@ -28,7 +28,7 @@ User Registration Form
 ![Picture1](https://user-images.githubusercontent.com/88264132/232689033-12c86317-027f-4a64-a666-b937644e7673.png)
 
 
-**FUTURE IMPROVEMENTS ON THE PROJECT**
+**FUTURE IMPROVEMENTS ON THE PROJECT:**
 1. Progress Bar can be implemented in each Todo.
 2. Email and Contact No. option and verification can be implemented.
 3. Captcha can be implemented during Registration.
