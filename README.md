@@ -7,7 +7,8 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 **TOOLS AND TECHNOLOGIES USED:**
 1. JSP - 2.2 +
 2. IDE – Netbeans 8.2
-3. XG Boost Classifier
+3. JDK – 8
+
 
 
 **WHAT I HAD DONE:**
