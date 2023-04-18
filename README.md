@@ -27,6 +27,7 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 **HOW THE PROJECT WORKS:**
 
 **Modules:-**
+
 User Registration Module - 
 1. Create a JavaBean - User.java
 2. Configure JDBC Connection- JDBCUtils.java
