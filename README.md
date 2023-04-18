@@ -32,7 +32,7 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 
 
 **LIBRARIES NEEDED:**
-![image](https://user-images.githubusercontent.com/88264132/232686868-b3cbd9de-1de2-42a1-b896-87f160e8e999.png)
+![Picture1](https://user-images.githubusercontent.com/88264132/232689033-12c86317-027f-4a64-a666-b937644e7673.png)
                                      
                                      **User Registration Form**
 
