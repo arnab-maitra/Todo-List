@@ -37,7 +37,12 @@ User Registration Form
 6. Database synchronization by mail can be well implemented.
 
 
-
+**PLEASE NOTE:**
+This project was collaboratively prepared by:  
+1) Soubhik Ghosh
+2) Subhadeep Puitandi
+3) Ankita Mukherjee
+4) Lekha Mehta
 
 **CONCLUSION:**
 | Models | Accuracy on Training Set  | Accuracy on Testing Set |
