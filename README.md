@@ -1,7 +1,7 @@
-# E-Mail Classification ML Model
+# Todo List
 
-**GOAL:**
-Classify emails as spam or not-spam on the basis of the message.
+**OBJECTIVE:**
+
 
 **DATASET:**
 [E-Mail classification NLP](https://www.kaggle.com/datatattle/email-classification-nlp)
