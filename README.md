@@ -24,9 +24,7 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 4. Delete – When the Todo is unused, the specific todo can be deleted using the delete function.
 
 
-**HOW THE PROJECT WORKS:**
-
-**Modules:-**
+**MODULES:**
 
 User Registration Module - 
 1. Create a JavaBean - User.java
@@ -46,6 +44,7 @@ Login Module - 
 8. View Layer - todo-form.jsp and todo-list.jsp
 
 
+**HOW THE PROJECT WORKS:**
 ![Web capture_18-4-2023_193211_](https://user-images.githubusercontent.com/88264132/232801696-4995da7e-73c4-4e80-aed0-10d2d3b38c2e.jpeg)
 
 
