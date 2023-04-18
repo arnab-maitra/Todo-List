@@ -44,7 +44,7 @@ This project was collaboratively prepared by:
 2) <a href="https://youtube.com/" target="_blank">Subhadeep Puitandi</a>
 3) Ankita Mukherjee
 4) Lekha Mehta
-5) <a href="https://github.com/arnab-maitra" target="_blank">Arnab Maitra</a>
+5) <a href="https://github.com/arnab-maitra?tab=repositories" target="_blank">Arnab Maitra</a>
 
 **CONCLUSION:**
 | Models | Accuracy on Training Set  | Accuracy on Testing Set |
