@@ -46,8 +46,7 @@ Login Module - 
 8. View Layer - todo-form.jsp and todo-list.jsp
 
 
-![Web capture_18-4-2023_193022_](https://user-images.githubusercontent.com/88264132/232801123-1ea00d7f-da49-4630-a455-9496728fa752.jpeg)
-
+![Web capture_18-4-2023_193211_](https://user-images.githubusercontent.com/88264132/232801696-4995da7e-73c4-4e80-aed0-10d2d3b38c2e.jpeg)
 
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
