@@ -17,9 +17,9 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 **FUNCTIONS USED:**
 
 1. Insert – When we add todos to the list, then we use the insert function. The added todos get stored in the Database.
-2.
-3.
-4.
+2. Update – After adding todos, the task status may be in progress, but when the task gets completed, the task status updates to completed using the update function.
+3. Display – When we login the Todo Web App, all the lists of Todos are displayed to the client using the display function.
+4. Delete – When the Todo is unused, the specific todo can be deleted using the delete function.
 
 
 **MODELS USED:**
