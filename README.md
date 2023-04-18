@@ -26,7 +26,9 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 1. Progress Bar can be implemented in each Todo.
 2. Email and Contact No. option and verification can be implemented.
 3. Captcha can be implemented during Registration.
-
+4. Reminder can be implemented through notifications to complete due tasks within deadline.
+5. Profile Picture Upload option can be implemented.
+6. Database synchronization by mail can be well implemented.
 
 
 **LIBRARIES NEEDED:**
