@@ -59,10 +59,10 @@ Login Module - 
 <p align="center">To-do Table</p>
 
 ![Web capture_18-4-2023_193211_](https://user-images.githubusercontent.com/88264132/232832351-be0cea12-9e71-4cbe-a730-94ef2307727e.jpeg)
-<br>Add Todo, Update Todo, List Todo, Delete Todo</br>
-<br>
+<p align="center">Add Todo, Update Todo, List Todo, Delete Todo</p>
+
 ![Picture6](https://user-images.githubusercontent.com/88264132/232833480-80f484c5-1b07-476d-8a7a-6b10772dac05.png)
-<br>Process of Adding Todo</br>
+<p align="center">Process of Adding Todo</p>
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
 
