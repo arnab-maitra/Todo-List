@@ -47,22 +47,22 @@ Login Module - 
 **HOW THE PROJECT WORKS:**
 
 ![Picture2](https://user-images.githubusercontent.com/88264132/232804680-dcd8fd74-e0f4-4aa1-b174-294cd399c65f.png)
-<b><p align="center">User Registration Form</p></b>
+<b><p align="center">Fig 1: User Registration Form</p></b>
 
 ![Picture3](https://user-images.githubusercontent.com/88264132/232825108-d87349b8-7310-49a0-ac26-6a237b5f6e0c.png)
-<b><p align="center">Login Form</p></b>
+<b><p align="center">Fig 2: Login Form</p></b>
 
 ![Picture4](https://user-images.githubusercontent.com/88264132/232826730-36df8b73-12fc-405b-ad44-7172ef2d8ba5.png)
-<b><p align="center">User Table</p></b>
+<b><p align="center">Fig 3: User Table</p></b>
 
 ![Picture5](https://user-images.githubusercontent.com/88264132/232829356-dfec221b-89ab-43e4-a8e2-cfe0b584662d.png)
-<b><p align="center">To-do Table</p></b>
+<b><p align="center">Fig 4: To-do Table</p></b>
 
 ![Web capture_18-4-2023_193211_](https://user-images.githubusercontent.com/88264132/232832351-be0cea12-9e71-4cbe-a730-94ef2307727e.jpeg)
-<b><p align="center">Add Todo, Update Todo, List Todo, Delete Todo</p></b>
+<b><p align="center">Fig 5: Add Todo, Update Todo, List Todo, Delete Todo</p></b>
 
 ![Picture6](https://user-images.githubusercontent.com/88264132/232833480-80f484c5-1b07-476d-8a7a-6b10772dac05.png)
-<b><p align="center">Process of Adding Todo</p></b>
+<b><p align="center">Fig 6: Process of Adding Todo</p></b>
 
 **FUTURE IMPROVEMENTS ON THE PROJECT:**
 
