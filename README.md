@@ -4,7 +4,7 @@
 To-do lists offer a way to increase productivity, stopping you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.
 
 
-**Tools and technologies used!**
+**TOOLS AND TECHNOLOGIES USED**
 1. JSP - 2.2 +
 2. IDE – Netbeans 8.2
 3. XG Boost Classifier
