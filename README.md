@@ -48,7 +48,9 @@ Login Module - 
 <br>
 <br>
 ![Picture2](https://user-images.githubusercontent.com/88264132/232804680-dcd8fd74-e0f4-4aa1-b174-294cd399c65f.png)
-<center>User Registration Form</center>
+<center>
+  <p>User Registration Form</p>
+</center>
 </br>
 
 
