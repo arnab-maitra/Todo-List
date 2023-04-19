@@ -91,7 +91,7 @@ Login Module - 
 
 This project was collaboratively prepared by:  
 1) <a href="https://github.com/arnab-maitra?tab=repositories" target="_blank">Arnab Maitra</a>
-2) <a href="https://youtube.com/" target="_blank">Subhadeep Puitandi</a>
+2) <a href="https://github.com/puitandisubhadeep?tab=repositories" target="_blank">Subhadeep Puitandi</a>
 3) <a href="https://youtube.com/" target="_blank">Ankita Mukherjee</a>
 4) Soubhik Ghosh
 5) Lekha Mehta
