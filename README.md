@@ -93,5 +93,5 @@ This project was collaboratively prepared by:
 1) <a href="https://github.com/arnab-maitra?tab=repositories" target="_blank">Arnab Maitra</a>
 2) <a href="https://github.com/puitandisubhadeep?tab=repositories" target="_blank">Subhadeep Puitandi</a>
 3) <a href="https://github.com/mukherjeerani?tab=repositories" target="_blank">Ankita Mukherjee</a>
-4) Soubhik Ghosh
+4) <a href="https://github.com/Jaguar7682?tab=repositories" target="_blank">Soubhik Ghosh</a>
 5) Lekha Mehta
